@@ -20,6 +20,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=harshilg0yal&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshilg0yal&icon=0&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=harshilg0yal&label=Profile%20Views&color=6&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
